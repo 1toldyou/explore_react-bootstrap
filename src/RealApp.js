@@ -19,7 +19,7 @@ function RealApp() {
                 >
                     Learn React
                 </a>
-                <Button>Button 1</Button>
+                <Button>Button 1!</Button>
                 <Button >Button 2</Button>
                 <Alert>Alert 1</Alert>
                 <Alert>Alert 2</Alert>
